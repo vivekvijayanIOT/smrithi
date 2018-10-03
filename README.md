@@ -1,0 +1,2 @@
+# smrithi
+Python code repository
